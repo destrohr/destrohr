@@ -14,6 +14,21 @@
 
 ---
 
+## 🧰 My Skills & Tools
+
+### 🐍 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+### 🧠 Libraries & Frameworks
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=OpenAI&logoColor=white)
+
+
+
+
+---
+
 ## 😂 If you find broken code
 
 Please **laugh out loud** – seriously.  
@@ -42,7 +57,7 @@ Every `SyntaxError` is just a plot twist in my coding story.
 
 ## 📫 Let’s connect!
 
-- Email: hariharanravichandran15@gmail.com 
+- Email: hariharanravichandran15@gmail.com  
 - Coffee? Sure. Bugs? Always.
 
 ---
