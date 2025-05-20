@@ -1,5 +1,6 @@
-# 👋 Hello world, I'm Hari!
-
+```python
+print("Hi world. I am Hari!")
+```
 🚗 I'm an Automotive Engineer who accidentally drove into the world of code.  
 🐍 I only speak Python – other languages like Java, C, R, or JavaScript? No thanks, my brain crashes.  
 💬 Python feels like writing English... so here I am, typing paragraphs that sometimes run!
@@ -22,7 +23,8 @@
 
 
 ### 🧠 Libraries & Frameworks
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=OpenAI&logoColor=white) ![Roboflow](https://img.shields.io/badge/Roboflow-FF4C28?style=for-the-badge&logo=roboflow&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-FF3B3F?style=for-the-badge&logo=YOLO&logoColor=white)
+
 
 
 
@@ -39,7 +41,7 @@ Every `SyntaxError` is just a plot twist in my coding story.
 
 ## 📚 What I'm learning
 
-- LangChain (slowly, but proudly)
+- Machine learning (slowly, but proudly)
 - Python tips and tricks
 - How to not cry when my code doesn’t run
 
