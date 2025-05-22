@@ -18,12 +18,13 @@ print("Hi world. I am Hari!")
 ## 🧰 My Skills & Tools
 
 ### 🐍 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
 
 
 
 ### 🧠 Libraries & Frameworks
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=OpenAI&logoColor=white) ![Roboflow](https://img.shields.io/badge/Roboflow-FF4C28?style=for-the-badge&logo=roboflow&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-FF3B3F?style=for-the-badge&logo=YOLO&logoColor=white)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)[![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=OpenAI&logoColor=white)](https://www.langchain.com/)[![Roboflow](https://img.shields.io/badge/Roboflow-FF4C28?style=for-the-badge&logo=roboflow&logoColor=white)](https://roboflow.com/)[![YOLO](https://img.shields.io/badge/YOLO-FF3B3F?style=for-the-badge&logo=YOLO&logoColor=white)](https://github.com/ultralytics/yolov5)
 
 
 
