@@ -60,8 +60,6 @@ Every `SyntaxError` is just a plot twist in my coding story.
 ## 📫 Let’s connect!
 
 - Email: hariharanravichandran15@gmail.com  
-- Coffee? Sure. Bugs? Always.
 
----
 
-> “Code is like a car – it needs maintenance, breaks sometimes, and runs smoother with good fuel (aka sleep ☕).”
+
