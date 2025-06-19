@@ -56,6 +56,9 @@ Every `SyntaxError` is just a plot twist in my coding story.
 (If you send me code in these, I might just send you back a confused emoji.)
 
 ---
+## 🏆 My GitHub Profile Trophys
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Let’s connect!
 
